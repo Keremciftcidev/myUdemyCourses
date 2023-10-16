@@ -1,0 +1,49 @@
+{
+    "courses":[
+        {
+            "id":1,
+
+            "content":"lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea et voluptatibus obcaecati dolore nemo eaque consequuntur vel ut quibusdam sit laborum exercitationem, facere beatae ex debitis explicabo, temporibus consequatur praesentium."
+            ,
+            "title":"lorem",
+            "price":69
+            
+        },
+        {
+            "id":2,
+
+            "content":"lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea et voluptatibus obcaecati dolore nemo eaque consequuntur vel ut quibusdam sit laborum exercitationem, facere beatae ex debitis explicabo, temporibus consequatur praesentium."
+            ,
+            "title":"lorem",
+            "price":69
+            
+        },
+        {
+            "id":3,
+
+            "content":"lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea et voluptatibus obcaecati dolore nemo eaque consequuntur vel ut quibusdam sit laborum exercitationem, facere beatae ex debitis explicabo, temporibus consequatur praesentium."
+            ,
+            "title":"lorem",
+            "price":69
+            
+        },
+        {
+            "id":4,
+
+            "content":"lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea et voluptatibus obcaecati dolore nemo eaque consequuntur vel ut quibusdam sit laborum exercitationem, facere beatae ex debitis explicabo, temporibus consequatur praesentium."
+            ,
+            "title":"lorem",
+            "price":69
+            
+        },
+        {
+            "id":5,
+
+            "content":"lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea et voluptatibus obcaecati dolore nemo eaque consequuntur vel ut quibusdam sit laborum exercitationem, facere beatae ex debitis explicabo, temporibus consequatur praesentium."
+            ,
+            "title":"lorem",
+            "price":69
+            
+        }
+    ]
+}
