@@ -48,3 +48,9 @@
   background-color: rebeccapurple;
 
 }
+.card-btn{
+  border: none;
+  background-color: white;
+  font-size: 30px;
+  color: red;
+}

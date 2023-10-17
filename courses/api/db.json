@@ -5,7 +5,7 @@
 
             "content":"lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea et voluptatibus obcaecati dolore nemo eaque consequuntur vel ut quibusdam sit laborum exercitationem, facere beatae ex debitis explicabo, temporibus consequatur praesentium."
             ,
-            "title":"lorem",
+            "title":"React.js",
             "price":69
             
         },
@@ -14,7 +14,7 @@
 
             "content":"lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea et voluptatibus obcaecati dolore nemo eaque consequuntur vel ut quibusdam sit laborum exercitationem, facere beatae ex debitis explicabo, temporibus consequatur praesentium."
             ,
-            "title":"lorem",
+            "title":"English all levels",
             "price":69
             
         },
@@ -23,7 +23,7 @@
 
             "content":"lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea et voluptatibus obcaecati dolore nemo eaque consequuntur vel ut quibusdam sit laborum exercitationem, facere beatae ex debitis explicabo, temporibus consequatur praesentium."
             ,
-            "title":"lorem",
+            "title":"JavaScript",
             "price":69
             
         },
@@ -32,7 +32,7 @@
 
             "content":"lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea et voluptatibus obcaecati dolore nemo eaque consequuntur vel ut quibusdam sit laborum exercitationem, facere beatae ex debitis explicabo, temporibus consequatur praesentium."
             ,
-            "title":"lorem",
+            "title":"Html-CSS",
             "price":69
             
         },
@@ -41,7 +41,7 @@
 
             "content":"lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea et voluptatibus obcaecati dolore nemo eaque consequuntur vel ut quibusdam sit laborum exercitationem, facere beatae ex debitis explicabo, temporibus consequatur praesentium."
             ,
-            "title":"lorem",
+            "title":"React Native",
             "price":69
             
         }
